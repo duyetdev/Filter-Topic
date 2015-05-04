@@ -1,0 +1,30 @@
+<doc>
+	<s>
+		<w pos="N">Hôm nay</w>
+		<w pos="N">trời</w>
+		<w pos="A">đẹp</w>
+		<w pos="R">quá</w>
+		<w pos=".">.</w>
+		<w pos="N">Trời</w>
+		<w pos="E">trong</w>
+		<w pos="A">xanh</w>
+		<w pos=".">.</w>
+		<w pos="N">Điện thoại</w>
+		<w pos="A">cùi</w>
+		<w pos=".">.</w>
+	</s>
+	<s>
+		<w pos="Nc">Cái</w>
+		<w pos="P">này</w>
+		<w pos="V">là</w>
+		<w pos="N">câu</w>
+		<w pos="N">thứ</w>
+		<w pos="M">2</w>
+		<w pos=".">.</w>
+	</s>
+	<s>
+		<w pos="N">Đoạn</w>
+		<w pos="N">thứ</w>
+		<w pos="M">3</w>
+	</s>
+</doc>
